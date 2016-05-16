@@ -1,6 +1,6 @@
 % !Rnw driver = highlight::HighlightWeaveLatex()
 \documentclass[10pt]{article}
-%\VignetteIndexEntry{h5-paper}
+%\VignetteIndexEntry{h5-Intro}
 %\VignetteEngine{highlight::highlight}
 %\VignetteKeywords{h5, HDF5}
 %\VignetteDepends{h5}
